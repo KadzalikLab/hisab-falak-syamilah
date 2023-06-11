@@ -1,0 +1,66 @@
+
+ 1	 7	 Pahing	 J Ts
+ 8	 14	 Wage	 J Ts
+ 15	 21	 Legi	 J Ts
+ 22	 28	 Pon	 J Ts
+ 29	 6	 Kliwon	 Rjb
+ -	 -	 -	 -
+ 5	 13	 Pahing	 Rjb
+ 12	 20	 Wage	 Rjb
+ 19	 27	 Legi	 Rjb
+ 26	 4	 Pon	 Sbn
+ -	 -	 -	 -
+ 5	 11	 Kliwon	 Sbn
+ 12	 18	 Pahing	 Sbn
+ 19	 25	 Wage	 Sbn
+ 26	 3	 Legi	 Rmdn
+ -	 -	 -	 -
+ 2	 10	 Pon	 Rmdn
+ 9	 17	 Kliwon	 Rmdn
+ 16	 24	 Pahing	 Rmdn
+ 23	 1	 Wage	 Swl
+ 30	 8	 Legi	 Swl
+ -	 -	 -	 -
+ 7	 15	 Pon	 Swl
+ 14	 22	 Kliwon	 Swl
+ 21	 29	 Pahing	 Swl
+ 28	 6	 Wage	 Dz.Q
+ -	 -	 -	 -
+ 4	 13	 Legi	 Dz.Q
+ 11	 20	 Pon	 Dz.Q
+ 18	 27	 Kliwon	 Dz.Q
+ 25	 4	 Pahing	 Dz.H
+ -	 -	 -	 -
+ 2	 11	 Wage	 Dz.H
+ 9	 18	 Legi	 Dz.H
+ 16	 25	 Pon	 Dz.H
+ 23	 3	 Kliwon	 Mhrm
+ 30	 10	 Pahing	 Mhrm
+ -	 -	 -	 -
+ 6	 17	 Wage	 Mhrm
+ 13	 24	 Legi	 Mhrm
+ 20	 1	 Pon	 Sfr
+ 27	 8	 Kliwon	 Sfr
+ -	 -	 -	 -
+ 3	 15	 Pahing	 Sfr
+ 10	 22	 Wage	 Sfr
+ 17	 29	 Legi	 Sfr
+ 24	 6	 Pon	 R Aw
+ -	 -	 -	 -
+ 1	 13	 Kliwon	 R Aw
+ 8	 20	 Pahing	 R Aw
+ 15	 27	 Wage	 R Aw
+ 22	 5	 Legi	 R Ah
+ 29	 12	 Pon	 R Ah
+ -	 -	 -	 -
+ 5	 19	 Kliwon	 R Ah
+ 12	 26	 Pahing	 R Ah
+ 19	 3	 Wage	 J Ul
+ 26	 10	 Legi	 J Ul
+ -	 -	 -	 -
+ 3	 17	 Pon	 J Ul
+ 10	 24	 Kliwon	 J Ul
+ 17	 2	 Pahing	 J Ts
+ 24	 9	 Wage	 J Ts
+ 31	 16	 Legi	 J Ts
+ -	 -	 -	 -

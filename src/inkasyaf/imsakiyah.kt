@@ -1,0 +1,9 @@
+package inkasyaf
+
+class imsakiyah
+
+{
+
+
+
+}

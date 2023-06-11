@@ -1,0 +1,257 @@
+
+ 2	 ٩	 Pon	 J Ts
+ 9	 ١٦	 Kliwon	 J Ts
+ 16	 ٢٣	 Pahing	 J Ts
+ 23	 ١	 Wage	 Rjb
+ 30	 ٨	 Legi	 Rjb
+ Jan	 Jan	 Jan	 Jan
+ 6	 ١٥	 Pon	 Rjb
+ 13	 ٢٢	 Kliwon	 Rjb
+ 20	 ٢٩	 Pahing	 Rjb
+ 27	 ٦	 Wage	 Sbn
+ Feb	 Feb	 Feb	 Feb
+ 6	 ١٣	 Legi	 Sbn
+ 13	 ٢٠	 Pon	 Sbn
+ 20	 ٢٧	 Kliwon	 Sbn
+ 27	 ٥	 Pahing	 Rmdn
+ Mar	 Mar	 Mar	 Mar
+ 3	 ١٢	 Wage	 Rmdn
+ 10	 ١٩	 Legi	 Rmdn
+ 17	 ٢٦	 Pon	 Rmdn
+ 24	 ٤	 Kliwon	 Swl
+ Apr	 Apr	 Apr	 Apr
+ 1	 ١١	 Pahing	 Swl
+ 8	 ١٨	 Wage	 Swl
+ 15	 ٢٥	 Legi	 Swl
+ 22	 ٢	 Pon	 Dz.Q
+ 29	 ٩	 Kliwon	 Dz.Q
+ Mei	 Mei	 Mei	 Mei
+ 5	 ١٦	 Pahing	 Dz.Q
+ 12	 ٢٣	 Wage	 Dz.Q
+ 19	 ٣٠	 Legi	 Dz.Q
+ 26	 ٧	 Pon	 Dz.H
+ Jun	 Jun	 Jun	 Jun
+ 3	 ١٤	 Kliwon	 Dz.H
+ 10	 ٢١	 Pahing	 Dz.H
+ 17	 ٢٨	 Wage	 Dz.H
+ 24	 ٦	 Legi	 Mhrm
+ 31	 ١٣	 Pon	 Mhrm
+ Jul	 Jul	 Jul	 Jul
+ 7	 ٢٠	 Kliwon	 Mhrm
+ 14	 ٢٧	 Pahing	 Mhrm
+ 21	 ٤	 Wage	 Sfr
+ 28	 ١١	 Legi	 Sfr
+ Ags	 Ags	 Ags	 Ags
+ 4	 ١٨	 Pon	 Sfr
+ 11	 ٢٥	 Kliwon	 Sfr
+ 18	 ٢	 Pahing	 R Aw
+ 25	 ٩	 Wage	 R Aw
+ Sep	 Sep	 Sep	 Sep
+ 2	 ١٦	 Legi	 R Aw
+ 9	 ٢٣	 Pon	 R Aw
+ 16	 ١	 Kliwon	 R Ah
+ 23	 ٨	 Pahing	 R Ah
+ 30	 ١٥	 Wage	 R Ah
+ Okt	 Okt	 Okt	 Okt
+ 6	 ٢٢	 Legi	 R Ah
+ 13	 ٢٩	 Pon	 R Ah
+ 20	 ٦	 Kliwon	 J Ul
+ 27	 ١٣	 Pahing	 J Ul
+ Nov	 Nov	 Nov	 Nov
+ 4	 ٢٠	 Wage	 J Ul
+ 11	 ٢٧	 Legi	 J Ul
+ 18	 ٥	 Pon	 J Ts
+ 25	 ١٢	 Kliwon	 J Ts
+ Des	 Des	 Des	 Des
+ 2	 ٩	 Pon	 J Ts
+ 9	 ١٦	 Kliwon	 J Ts
+ 16	 ٢٣	 Pahing	 J Ts
+ 23	 ١	 Wage	 Rjb
+ 30	 ٨	 Legi	 Rjb
+ Jan	 Jan	 Jan	 Jan
+ 6	 ١٥	 Pon	 Rjb
+ 13	 ٢٢	 Kliwon	 Rjb
+ 20	 ٢٩	 Pahing	 Rjb
+ 27	 ٦	 Wage	 Sbn
+ Feb	 Feb	 Feb	 Feb
+ 6	 ١٣	 Legi	 Sbn
+ 13	 ٢٠	 Pon	 Sbn
+ 20	 ٢٧	 Kliwon	 Sbn
+ 27	 ٥	 Pahing	 Rmdn
+ Mar	 Mar	 Mar	 Mar
+ 3	 ١٢	 Wage	 Rmdn
+ 10	 ١٩	 Legi	 Rmdn
+ 17	 ٢٦	 Pon	 Rmdn
+ 24	 ٤	 Kliwon	 Swl
+ Apr	 Apr	 Apr	 Apr
+ 1	 ١١	 Pahing	 Swl
+ 8	 ١٨	 Wage	 Swl
+ 15	 ٢٥	 Legi	 Swl
+ 22	 ٢	 Pon	 Dz.Q
+ 29	 ٩	 Kliwon	 Dz.Q
+ Mei	 Mei	 Mei	 Mei
+ 5	 ١٦	 Pahing	 Dz.Q
+ 12	 ٢٣	 Wage	 Dz.Q
+ 19	 ٣٠	 Legi	 Dz.Q
+ 26	 ٧	 Pon	 Dz.H
+ Jun	 Jun	 Jun	 Jun
+ 3	 ١٤	 Kliwon	 Dz.H
+ 10	 ٢١	 Pahing	 Dz.H
+ 17	 ٢٨	 Wage	 Dz.H
+ 24	 ٦	 Legi	 Mhrm
+ 31	 ١٣	 Pon	 Mhrm
+ Jul	 Jul	 Jul	 Jul
+ 7	 ٢٠	 Kliwon	 Mhrm
+ 14	 ٢٧	 Pahing	 Mhrm
+ 21	 ٤	 Wage	 Sfr
+ 28	 ١١	 Legi	 Sfr
+ Ags	 Ags	 Ags	 Ags
+ 4	 ١٨	 Pon	 Sfr
+ 11	 ٢٥	 Kliwon	 Sfr
+ 18	 ٢	 Pahing	 R Aw
+ 25	 ٩	 Wage	 R Aw
+ Sep	 Sep	 Sep	 Sep
+ 2	 ١٦	 Legi	 R Aw
+ 9	 ٢٣	 Pon	 R Aw
+ 16	 ١	 Kliwon	 R Ah
+ 23	 ٨	 Pahing	 R Ah
+ 30	 ١٥	 Wage	 R Ah
+ Okt	 Okt	 Okt	 Okt
+ 6	 ٢٢	 Legi	 R Ah
+ 13	 ٢٩	 Pon	 R Ah
+ 20	 ٦	 Kliwon	 J Ul
+ 27	 ١٣	 Pahing	 J Ul
+ Nov	 Nov	 Nov	 Nov
+ 4	 ٢٠	 Wage	 J Ul
+ 11	 ٢٧	 Legi	 J Ul
+ 18	 ٥	 Pon	 J Ts
+ 25	 ١٢	 Kliwon	 J Ts
+ Des	 Des	 Des	 Des
+ 2	 ٩	 Pon	 J Ts
+ 9	 ١٦	 Kliwon	 J Ts
+ 16	 ٢٣	 Pahing	 J Ts
+ 23	 ١	 Wage	 Rjb
+ 30	 ٨	 Legi	 Rjb
+ Jan	 Jan	 Jan	 Jan
+ 6	 ١٥	 Pon	 Rjb
+ 13	 ٢٢	 Kliwon	 Rjb
+ 20	 ٢٩	 Pahing	 Rjb
+ 27	 ٦	 Wage	 Sbn
+ Feb	 Feb	 Feb	 Feb
+ 6	 ١٣	 Legi	 Sbn
+ 13	 ٢٠	 Pon	 Sbn
+ 20	 ٢٧	 Kliwon	 Sbn
+ 27	 ٥	 Pahing	 Rmdn
+ Mar	 Mar	 Mar	 Mar
+ 3	 ١٢	 Wage	 Rmdn
+ 10	 ١٩	 Legi	 Rmdn
+ 17	 ٢٦	 Pon	 Rmdn
+ 24	 ٤	 Kliwon	 Swl
+ Apr	 Apr	 Apr	 Apr
+ 1	 ١١	 Pahing	 Swl
+ 8	 ١٨	 Wage	 Swl
+ 15	 ٢٥	 Legi	 Swl
+ 22	 ٢	 Pon	 Dz.Q
+ 29	 ٩	 Kliwon	 Dz.Q
+ Mei	 Mei	 Mei	 Mei
+ 5	 ١٦	 Pahing	 Dz.Q
+ 12	 ٢٣	 Wage	 Dz.Q
+ 19	 ٣٠	 Legi	 Dz.Q
+ 26	 ٧	 Pon	 Dz.H
+ Jun	 Jun	 Jun	 Jun
+ 3	 ١٤	 Kliwon	 Dz.H
+ 10	 ٢١	 Pahing	 Dz.H
+ 17	 ٢٨	 Wage	 Dz.H
+ 24	 ٦	 Legi	 Mhrm
+ 31	 ١٣	 Pon	 Mhrm
+ Jul	 Jul	 Jul	 Jul
+ 7	 ٢٠	 Kliwon	 Mhrm
+ 14	 ٢٧	 Pahing	 Mhrm
+ 21	 ٤	 Wage	 Sfr
+ 28	 ١١	 Legi	 Sfr
+ Ags	 Ags	 Ags	 Ags
+ 4	 ١٨	 Pon	 Sfr
+ 11	 ٢٥	 Kliwon	 Sfr
+ 18	 ٢	 Pahing	 R Aw
+ 25	 ٩	 Wage	 R Aw
+ Sep	 Sep	 Sep	 Sep
+ 2	 ١٦	 Legi	 R Aw
+ 9	 ٢٣	 Pon	 R Aw
+ 16	 ١	 Kliwon	 R Ah
+ 23	 ٨	 Pahing	 R Ah
+ 30	 ١٥	 Wage	 R Ah
+ Okt	 Okt	 Okt	 Okt
+ 6	 ٢٢	 Legi	 R Ah
+ 13	 ٢٩	 Pon	 R Ah
+ 20	 ٦	 Kliwon	 J Ul
+ 27	 ١٣	 Pahing	 J Ul
+ Nov	 Nov	 Nov	 Nov
+ 4	 ٢٠	 Wage	 J Ul
+ 11	 ٢٧	 Legi	 J Ul
+ 18	 ٥	 Pon	 J Ts
+ 25	 ١٢	 Kliwon	 J Ts
+ Des	 Des	 Des	 Des
+ 2	 ٩	 Pon	 J Ts
+ 9	 ١٦	 Kliwon	 J Ts
+ 16	 ٢٣	 Pahing	 J Ts
+ 23	 ١	 Wage	 Rjb
+ 30	 ٨	 Legi	 Rjb
+ Jan	 Jan	 Jan	 Jan
+ 6	 ١٥	 Pon	 Rjb
+ 13	 ٢٢	 Kliwon	 Rjb
+ 20	 ٢٩	 Pahing	 Rjb
+ 27	 ٦	 Wage	 Sbn
+ Feb	 Feb	 Feb	 Feb
+ 6	 ١٣	 Legi	 Sbn
+ 13	 ٢٠	 Pon	 Sbn
+ 20	 ٢٧	 Kliwon	 Sbn
+ 27	 ٥	 Pahing	 Rmdn
+ Mar	 Mar	 Mar	 Mar
+ 3	 ١٢	 Wage	 Rmdn
+ 10	 ١٩	 Legi	 Rmdn
+ 17	 ٢٦	 Pon	 Rmdn
+ 24	 ٤	 Kliwon	 Swl
+ Apr	 Apr	 Apr	 Apr
+ 1	 ١١	 Pahing	 Swl
+ 8	 ١٨	 Wage	 Swl
+ 15	 ٢٥	 Legi	 Swl
+ 22	 ٢	 Pon	 Dz.Q
+ 29	 ٩	 Kliwon	 Dz.Q
+ Mei	 Mei	 Mei	 Mei
+ 5	 ١٦	 Pahing	 Dz.Q
+ 12	 ٢٣	 Wage	 Dz.Q
+ 19	 ٣٠	 Legi	 Dz.Q
+ 26	 ٧	 Pon	 Dz.H
+ Jun	 Jun	 Jun	 Jun
+ 3	 ١٤	 Kliwon	 Dz.H
+ 10	 ٢١	 Pahing	 Dz.H
+ 17	 ٢٨	 Wage	 Dz.H
+ 24	 ٦	 Legi	 Mhrm
+ 31	 ١٣	 Pon	 Mhrm
+ Jul	 Jul	 Jul	 Jul
+ 7	 ٢٠	 Kliwon	 Mhrm
+ 14	 ٢٧	 Pahing	 Mhrm
+ 21	 ٤	 Wage	 Sfr
+ 28	 ١١	 Legi	 Sfr
+ Ags	 Ags	 Ags	 Ags
+ 4	 ١٨	 Pon	 Sfr
+ 11	 ٢٥	 Kliwon	 Sfr
+ 18	 ٢	 Pahing	 R Aw
+ 25	 ٩	 Wage	 R Aw
+ Sep	 Sep	 Sep	 Sep
+ 2	 ١٦	 Legi	 R Aw
+ 9	 ٢٣	 Pon	 R Aw
+ 16	 ١	 Kliwon	 R Ah
+ 23	 ٨	 Pahing	 R Ah
+ 30	 ١٥	 Wage	 R Ah
+ Okt	 Okt	 Okt	 Okt
+ 6	 ٢٢	 Legi	 R Ah
+ 13	 ٢٩	 Pon	 R Ah
+ 20	 ٦	 Kliwon	 J Ul
+ 27	 ١٣	 Pahing	 J Ul
+ Nov	 Nov	 Nov	 Nov
+ 4	 ٢٠	 Wage	 J Ul
+ 11	 ٢٧	 Legi	 J Ul
+ 18	 ٥	 Pon	 J Ts
+ 25	 ١٢	 Kliwon	 J Ts
+ Des	 Des	 Des	 Des
